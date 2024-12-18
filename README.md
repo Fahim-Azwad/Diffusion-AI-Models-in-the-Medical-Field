@@ -1,2 +1,3 @@
 # Diffusion-AI-Models-in-the-Medical-Field
-Applications of Diffusion AI Models in the Medical Field and Their Data Analysis.
+This is the code base for analyzing different diffusion AI models in the medical field.
+
